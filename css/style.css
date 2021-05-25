@@ -1,0 +1,255 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+header{
+
+width: 60%;
+
+height: 100px;
+
+margin-left: 20%;
+
+padding: 26px 0;
+
+text-align: left;
+}
+
+.logo{
+
+width: 20%;
+
+float: left;
+
+margin-top: 7px;
+
+margin-left: 0px;
+}
+.logo img{}
+nav{
+
+width: 34%;
+
+float: left;
+
+list-style: none;
+
+text-align: left;
+
+margin-top: 16px;
+}
+nav ul{
+    
+list-style: none;
+}
+nav ul li{
+    
+float: left;
+    
+margin-left: 24px;
+    
+font-size: 22px;
+    
+text-transform: capitalize;
+}
+button{
+
+width: 16%;
+
+float: right;
+
+height: 50px;
+
+border-radius: 10px;
+
+background-color: red;
+
+color: white;
+
+font-size: 16px;
+
+text-transform: capitalize;
+
+font-weight: 600;
+}
+.content{
+
+width: 60%;
+
+margin-left: 20%;
+
+margin-top: 50px;
+
+overflow: hidden;
+
+margin-bottom: 100px;
+}
+.left_content{
+
+width: 45%;
+
+float: left;
+}
+.left_content h1{
+
+font-size: 50px;
+
+text-align: left;
+
+text-transform: capitalize;
+
+color: #292640;
+
+margin-top: 36px;
+}
+.left_content p{
+
+font-size: 23px;
+
+color: #bbb8b8;
+
+margin-top: 16px;
+}
+.right_content{
+
+width: 45%;
+
+float: right;
+}
+.right_content img{
+    
+width: 100%;
+}
+.demo_text{
+
+}
+.demo_text h1{
+
+}
+.demo_text p{
+
+}
+
+.demo_section{
+
+margin-top: 30px;
+
+width: 92%;
+
+margin: auto;
+}
+.demo_text{
+
+height: 100px;
+
+text-align: center;
+
+width: 25%;
+
+margin-left: 38%;
+
+margin-bottom: 50px;
+
+margin-top: 40px;
+}
+.demo_text h1{
+    
+font-size: 45px;
+    
+color: #444343;
+    
+text-transform: capitalize;
+}
+.demo_text p{
+    
+}
+.classic{
+
+width: 23%;
+
+float: left;
+}
+.classic h1{
+    
+}
+.classic p{
+    
+}
+.classic img{
+    
+width: 100%;
+}
+.classic h3{
+    
+}
+.shop{
+
+width: 23%;
+
+float: left;
+
+text-align: center;
+
+margin-left: 2%;
+}
+.shop h1{
+    
+}
+.shop p{
+    
+}
+.shop img{
+    
+width: 100%;
+}
+.shop h3{
+    
+}
+.dark{
+
+width: 23%;
+
+float: left;
+
+text-align: center;
+
+margin-left: 2%;
+}
+.dark h1{
+    
+}
+.dark p{
+    
+}
+.dark img{
+    
+width: 100%;
+}
+.dark h3{
+    
+}
+.minimal{
+    width: 23%;
+    float: left;
+    text-align: center;
+    margin-left: 2%;
+}
+.minimal h1{
+    
+}
+.minimal p{
+    
+}
+.minimal img{
+    
+width: 100%;
+}
+.minimal h3{
+    
+}
+
+
+
+
+
